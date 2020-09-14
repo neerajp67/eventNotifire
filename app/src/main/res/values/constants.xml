@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <string name="storage_link">gs://minor-ev.appspot.com</string>
+    <string name="google_web_client_id">722117502696-2avft7442qosqvdburkakqpgjbvkfl9o.apps.googleusercontent.com</string>
+    <string name="facebook_app_id">768975843453433</string>
+    <string name="fb_login_protocol_scheme">fb768975843453433</string>
+    <string name="facebook_large_image_url_pattern">https://graph.facebook.com/%1$s/picture?type=large</string>
+    <string name="google_large_image_url_pattern">%1$s?sz=%2$d</string>
+</resources>

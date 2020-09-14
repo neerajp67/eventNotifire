@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "722117502696",
+    "firebase_url": "https://minor-ev.firebaseio.com",
+    "project_id": "minor-ev",
+    "storage_bucket": "minor-ev.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:722117502696:android:bb225e6ea2ef0ed9",
+        "android_client_info": {
+          "package_name": "eventnotifier.en.en"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "722117502696-h2q4g5ccq3saq32qiafphisfi5m7d8ev.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "eventnotifier.en.en",
+            "certificate_hash": "5a0492a18fb2f64ee8e3d0ae1b8f2a77eea01bcf"
+          }
+        },
+        {
+          "client_id": "722117502696-2avft7442qosqvdburkakqpgjbvkfl9o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2nNFXSoxri4YmtNO82ve76DgboJeDhDQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "722117502696-2avft7442qosqvdburkakqpgjbvkfl9o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
